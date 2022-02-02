@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367889658976",
+    "project_id": "madproject-d73fb",
+    "storage_bucket": "madproject-d73fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367889658976:android:855394d64c44d52d7aff05",
+        "android_client_info": {
+          "package_name": "com.group02.courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367889658976-ld99gk3dnj9oq4h71ssn0h6t4lerlu3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEOBK6nx2wdur8z17QG0GTkulmeXMPI6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367889658976-ld99gk3dnj9oq4h71ssn0h6t4lerlu3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
